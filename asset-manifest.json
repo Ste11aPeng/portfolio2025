@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1e34297.css",
-    "main.js": "/static/js/main.3d43aeb1.js",
-    "static/js/156.d8423b94.chunk.js": "/static/js/156.d8423b94.chunk.js",
+    "main.css": "/static/css/main.f63f2b84.css",
+    "main.js": "/static/js/main.9392b6a4.js",
+    "static/js/488.a1d951cf.chunk.js": "/static/js/488.a1d951cf.chunk.js",
     "static/media/logo-notes.svg": "/static/media/logo-notes.2aeb3f17496da0d8a9e8f50123600b6d.svg",
     "static/media/logo-linkedin.svg": "/static/media/logo-linkedin.1001a9d1bba9557c4ce1f88a046e10d6.svg",
     "static/media/logo-circlestatus.svg": "/static/media/logo-circlestatus.9eef88f94333d5ce84423df82e087ef0.svg",
     "static/media/logo-chiron.svg": "/static/media/logo-chiron.d7f96cc6125d423e1a07fd66c83bca83.svg",
-    "static/media/logo-github.svg": "/static/media/logo-github.d2a5140822170d9c1c24c782116c9888.svg",
+    "static/media/logo-rock.svg": "/static/media/logo-rock.867288adca4b7e692ec280c2ff58be88.svg",
+    "static/media/logo-stitchi.svg": "/static/media/logo-stitchi.cbd652ef306c16930665085d3eb55b5d.svg",
+    "static/media/logo-philo.svg": "/static/media/logo-philo.c015d7c13ab6f12071c8384c1b929a48.svg",
     "index.html": "/index.html",
-    "static/media/logo-rock.svg": "/static/media/logo-rock.d6714faea25176c0975859c73ff065fa.svg",
-    "main.a1e34297.css.map": "/static/css/main.a1e34297.css.map",
-    "main.3d43aeb1.js.map": "/static/js/main.3d43aeb1.js.map",
-    "156.d8423b94.chunk.js.map": "/static/js/156.d8423b94.chunk.js.map"
+    "main.f63f2b84.css.map": "/static/css/main.f63f2b84.css.map",
+    "main.9392b6a4.js.map": "/static/js/main.9392b6a4.js.map",
+    "488.a1d951cf.chunk.js.map": "/static/js/488.a1d951cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e34297.css",
-    "static/js/main.3d43aeb1.js"
+    "static/css/main.f63f2b84.css",
+    "static/js/main.9392b6a4.js"
   ]
 }
